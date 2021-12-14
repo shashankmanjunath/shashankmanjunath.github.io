@@ -32,11 +32,22 @@ social:
     - https://www.linkedin.com/in/shashank-manjunath-b26652b9/
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-paginate
+
+remote_theme: jekyll/minima
+
+header_pages:
+  - about.md
+  - cv.md
+
+minima:
+  skin: dark
+  social_links:
+    github: shashankmanjunath
+    linkedin: shashank-manjunath-b26652b9
 
 # kramdown:
 #     math_engine: mathjax
