@@ -69,6 +69,8 @@ what we can identify out of low-level signals, as well as projects that involve 
     </tr>
 </table>
 
+[More information is available in my CV.]({{ site.url }}/assets/shashankmanjunath_cv.pdf)
+
 ## Education
 
 <table>
