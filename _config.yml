@@ -46,7 +46,7 @@ header_pages:
   - cv.md
 
 minima:
-  skin: dark
+  # skin: dark
   social_links:
     github: shashankmanjunath
     linkedin: shashank-manjunath-b26652b9
