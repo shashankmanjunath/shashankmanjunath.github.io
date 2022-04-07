@@ -78,7 +78,7 @@ what we can identify out of low-level signals, as well as projects that involve 
                 <a href="https://vuiis.vumc.org/" target="_blank">Vanderbilt University Institute of Imaging Science</a><br />
                 Research Assistant<br />
                 April 2016-April 2018<br />
-                Cambridge, MA
+                Nashville, TN
             </p>
         </td>
     </tr>
