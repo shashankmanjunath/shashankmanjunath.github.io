@@ -25,14 +25,29 @@ what we can identify out of low-level signals, as well as projects that involve 
     <tr>
         <td>
             <p align="center">
-                <img src="./assets/cra.jpg" alt="headshot" width=100 />
+                <img src="./assets/linus.png" alt="linus" width=100 />
+            </p>
+        </td>
+        <td>
+            <p align = "center">
+                <a href="https://linushealth.com/" target="_blank">Linus Health</a><br />
+                Senior Data Scientist<br />
+                February 2022-Present<br />
+                Boston, MA
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p align="center">
+                <img src="./assets/cra.jpg" alt="cra" width=100 />
             </p>
         </td>
         <td>
             <p align = "center">
                 <a href="https://cra.com/" target="_blank">Charles River Analytics</a><br />
                 Scientist<br />
-                May 2018-Present<br />
+                May 2018-February 2022<br />
                 Cambridge, MA
             </p>
         </td>
