@@ -98,9 +98,11 @@ what we can identify out of low-level signals, as well as projects that involve 
         <td>
             <p align = "center">
                 <a href="https://www.bu.edu/" target="_blank">Boston University</a><br />
-                Master of Science, May 2022 (Expected)<br />
+                Master of Science, May 2022<br />
                 Electrical Engineering<br />
                 GPA: 3.93<br />
+                Thesis: Machine Learning Techniques for Reconstruction and Segmentation of Nanoparticle Interferometric
+                Signatures<br />
                 Boston, MA
             </p>
         </td>
