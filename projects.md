@@ -4,48 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-<!-- # Charles River Analytics -->
-<!--  -->
-<!-- ## [Submarine Imaging Real-time Enhancement (SIREN)](https://www.sbir.gov/sbirsearch/detail/689489) -->
-<!--  -->
-<!-- ### Description -->
-<!-- The US Navy is in the process of phasing out conventional optical submarine periscopes in favor of digital sensor masts -->
-<!-- that transmit video (and other sensor data) to the bridge electronically. Sensor masts can host multiple sensor -->
-<!-- modalities including both electro-optic (EO) and infrared (IR) for day/night operations. Digital video can be fed -->
-<!-- directly into a pipeline of automated image processing algorithms including target detection, tracking, and -->
-<!-- classification for enhanced situational awareness. Unfortunately, the imagery from submarine sensor masts often suffers -->
-<!-- from a variety of artifacts, including etched reticle lines, interlacing artifacts, and smudging from water droplets. -->
-<!-- These artifacts affect image quality and negatively impact the performance of downstream processing algorithms. The -->
-<!-- current method of manual video correction is highly labor intensive and cannot be performed in real time. I worked on a -->
-<!-- system to detect and correct these artifacts in real time. I both worked on the technical side of this project, -->
-<!-- implementing a custom neural network inference framework in C++ and CUDA and working on the probabalistic models used in -->
-<!-- the program, as well as acted as the Principal Investigator on the program, leading the transition and commercialization -->
-<!-- efforts for the project. -->
-<!--  -->
-<!-- ### Related Works -->
-<!-- 1. [Manjunath, S., Thornton, W. "Deep Learning for Maritime Imagery." Submarine Technology Symposium, May 2019 -->
-<!--    (Oral)](https://www.navalsubleague.org/events/submarine-technology-symposium/) -->
-<!--  -->
-<!-- ## [Turbulence Mitigation, Error Reduction, and Increased Contrast (TURMERIC)](https://www.sbir.gov/sbirsearch/detail/1515313) -->
-<!--  -->
-<!-- ### Description -->
-<!-- Similar to SIREN, TURMERIC focuses on correcting artifacts that occur in submarine sensor imagery. TURMERIC specifically -->
-<!-- focuses on mitigating atmospheric turbulence, which can cause issues in the automated image processing algorithms for -->
-<!-- target detection, classification, and tracking used by the U.S. Navy for situational awareness. I acted as lead engineer -->
-<!-- on this project, both designing and implementing the probabalistic models used in this program, as well as designing and -->
-<!-- implementing an optical turbulence simulator that ran ~10x faster than the previous state-of-the-art by leveraging -->
-<!-- parallel computation on GPUs using C++ and CUDA. -->
-<!--  -->
-<!-- ## [Warfighter Analytics for Smartphone Health (WASH)](darpa.mil/program/warfighter-analytics-using-smartphones-for-healtho) -->
-<!--  -->
-<!-- Under the WASH program, I focused on using smartphone sensor data to help identify physiological illnesses in -->
-<!-- individuals. In particular, I worked on the context of use portion of this program, designing and implementing a -->
-<!-- probabalistic model to leverage smartphone sensor data to identify smartphone use contexts. -->
-<!--  -->
-<!-- ### Related Works -->
-<!-- 1. [Manjunath, Shashank, Bracken, Bethany K., German, Stan, Monnier, Camille, Farry, Mike. "User Activity Context  -->
-<!--     Recognition From Smartphone Data Using Deep Neural Networks." Biomedical Engineering Society, October 2019.](/assets/smanjunath_bmes_2019.pdf) -->
-
 # Boston University
 
 ## Machine Learning Techniques for Reconstruction and Segmentation of Nanoparticle Interferometric Signatures
