@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -49,8 +49,8 @@ header_pages:
 minima:
   # skin: dark
   social_links:
-    github: shashankmanjunath
-    linkedin: shashank-manjunath-b26652b9
+    - { platform: github,  user_url: "https://github.com/shashankmanjunath" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/shashank-manjunath-b26652b9/" }
 
 kramdown:
     math_engine: mathjax
