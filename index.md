@@ -15,7 +15,7 @@ machine learning. I am currently a Ph.D. student in Computer Science at
 Northeastern University, where I work on signal processing and machine learning
 research under the supervision of Dr. Aarti Sathyanarayana.
 
-Prior to starting at Norhteastern, I spent time as a Senior Data Scientist at
+Prior to starting at Northeastern, I spent time as a Senior Data Scientist at
 Linus Health, where I worked on Linus Health's platform, as well as at Charles
 River Analytics as a Scientist where I worked on a variety of signal processing,
 machine learning, and computer vision projects. I received a Bachelor's degree
