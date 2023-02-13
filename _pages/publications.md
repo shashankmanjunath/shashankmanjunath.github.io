@@ -11,8 +11,6 @@ A most updated list of publications can be found at <u><a href="{{author.googles
 
 {% include base_path %}
 
-# Publications
-
 {% for post in site.publications reversed %}
 {% include archive-single.html %}
 {% endfor %}
