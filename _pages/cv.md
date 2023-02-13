@@ -9,51 +9,64 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+A PDF version of this CV with further information can be found [here](/files/shashankmanjunath_cv.pdf)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+# Education
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- B.Eng., Biomedical Engineering and Mathematics, Vanderbilt University, 2018
+- M.S., Electrical Engineering, Boston University, 2022
+- Ph.D, Computer Science, Northeastern University, 2022-Present (Ongoing)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Work experience
+
+- Research Assistant, Northeastern University Department of Computer Science, September 2022-Present
+- Senior Data Scientist, Linus Health, February 2022-August 2022
+- Scientist, Charles River Analytics, May 2018-February 2022
+- Founder & Engineer, LumaSil, May 2018-January 2019
+- Undergraduate Research Assistant, Vanderbilt Institute of Imaging Science, May 2016-May 2018
+
+# Publications
+
+<ul>{% for post in site.publications %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+# Abstracts/Conferences
+
+<ul>{% for post in site.abstracts %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+# Talks
+
+<ul>{% for post in site.talks %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
+# Patents
+
+TODO
+
+# Skills
+
+- General Skills
+  - Signal Processing
+  - Computer Vision
+  - Machine Learning
+  - GPU Programming
+- Programming Languages
+  - Python
+  - C/C++
+  - MATLAB
+- DevOps/Libraries
+  - LaTeX
+  - Git
+  - Numpy
+  - Scipy
+  - Pandas
+  - Scikit-learn
+  - OpenCV
+  - PyTorch
+  - TensorFlow
+  - CUDA/cuDNN
+  - SLURM
