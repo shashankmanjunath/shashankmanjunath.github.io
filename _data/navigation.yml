@@ -18,5 +18,8 @@ main:
   # - title: "Posts"
   #   url: /year-archive/
 
+  - title: "Markdown"
+    url: /markdown/
+
   - title: "CV"
     url: /cv/

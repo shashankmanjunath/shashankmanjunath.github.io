@@ -1,12 +1,13 @@
 ---
 permalink: /research/
-title: "Research Interests"
+title: "Research"
 author_profile: true
-redirect_from:
-  - /research/
-  - /research.html
 ---
 
-# Research Interests
+I am broadly interested in developing novel signal processing techniques for
+application to biological problems. A small description of my current projects
+are described below.
 
-Test page
+## Topological Data Analysis (TDA) for Electroencephalogram (EEG) Signals
+
+TODO: Create blog post, include a small abstract here, link to blog post
