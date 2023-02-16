@@ -10,4 +10,4 @@ are described below.
 
 ## Topological Data Analysis (TDA) for Electroencephalogram (EEG) Signals
 
-TODO: Create blog post, include a small abstract here, link to blog post
+More information coming!

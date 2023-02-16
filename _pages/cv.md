@@ -13,9 +13,9 @@ A PDF version of this CV with further information can be found [here](/files/sha
 
 # Education
 
-- B.Eng., Biomedical Engineering and Mathematics, Vanderbilt University, 2018
-- M.S., Electrical Engineering, Boston University, 2022
-- Ph.D, Computer Science, Northeastern University, 2022-Present (Ongoing)
+- Ph.D, Computer Science, Northeastern University, September 2022-Present (Ongoing)
+- M.S., Electrical Engineering, Boston University, May 2022
+- B.Eng., Biomedical Engineering and Mathematics, Vanderbilt University, May 2018
 
 # Work experience
 
@@ -45,7 +45,14 @@ A PDF version of this CV with further information can be found [here](/files/sha
 
 # Patents
 
-TODO
+- Manjunath, Shashank; and Sathyanarayana, Aarti. Diagnosing Sleep Apnea from Awake EEGs. U.S. Patent Application No. 63/481,123, filed January 23, 2023. Provisional Patent.
+- Agaron, Shamay; Tobyne, Sean; and Manjunath, Shashank. Contextual Awareness for Unsupervised Administration of Cognitive Assessments Remotely or in a Clinical Setting. U.S. Patent Application No. 63/377,435, filed September 28, 2022. Provisional Patent.
+
+# Awards and Honors
+
+- Graduate Merit Scholarship (2020)
+- Thomas Arnold Prize for Biomedical Systems Design (2018)
+- Thomas J. Watson Scholarship (2014)
 
 # Skills
 

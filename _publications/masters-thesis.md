@@ -4,9 +4,10 @@ collection: publications
 parmalink: /publication/masters-thesis
 date: 2022-05-15
 venue: "Boston University"
-permalink: "https://open.bu.edu/handle/2144/44776"
+paperurl: "https://open.bu.edu/handle/2144/44776"
 ---
 
+_Abstract:_
 Single particle interferometric reflectance imaging sensor (SP-IRIS) allows for
 label-free biological nanoparticle detection. This imaging technique allows
 collection of a 3D defocus profile of interferometric signatures of particles on
@@ -23,3 +24,6 @@ undersampled data. We then test a UNet based segmentation model to segment
 particle signals from background signals. Lastly, we propose a novel combined
 reconstruction and segmentation model which can perform both reconstruction and
 segmentation on undersampled SP-IRIS data.
+
+This was my Master's thesis, performed under the direction of Prof. M. Selim
+Ünlü in the Department of Electrical Engineering at Boston University.

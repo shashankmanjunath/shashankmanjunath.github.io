@@ -7,7 +7,7 @@ venue: "arXiv Preprint"
 paperurl: "https://arxiv.org/abs/2008.05381"
 ---
 
-Recent advances in machine learning (ML) and computer vision tools have enabled
+_Abstract:_ Recent advances in machine learning (ML) and computer vision tools have enabled
 applications in a wide variety of arenas such as financial analytics, medical
 diagnostics, and even within the Department of Defense. However, their
 widespread implementation in real-world use cases poses several challenges: (1)

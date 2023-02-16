@@ -151,5 +151,4 @@ that involve enhancing signals to greater clarity.
     </tr>
 </table>
 
-I currently live in Providence, RI, and grew up in Acton, MA. Outside of work, I
-enjoy lifting weights, riding motorcycles, cooking, and playing sports.
+I currently live in Providence, RI. Outside of work, I enjoy lifting weights, riding motorcycles, cooking, and playing sports.
