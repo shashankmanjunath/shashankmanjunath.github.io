@@ -83,8 +83,8 @@ author:
   name             : "Shashank Manjunath"
   avatar           : "ManjunathShashank_headshot.jpg"
   bio              : "Ph.D. Student, SATH Lab"
-  location         : "Boston, MA"
-  employer         : "Northeastern University"
+  location         :
+  employer         : "Northeastern University | Boston, MA"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=B2eU6I4AAAAJ"
   email            : "manjunath.sh@northeastern.edu"

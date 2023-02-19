@@ -30,7 +30,7 @@ applying them to biological problems. I enjoy working on problems that push the
 boundaries of what we can identify out of low-level signals, as well as projects
 that involve enhancing signals to greater clarity.
 
-[More information is available on the CV page.]({{ site.url }}/cv/)
+[More information is available on my CV](/files/shashankmanjunath_cv.pdf)
 
 ## Education
 
