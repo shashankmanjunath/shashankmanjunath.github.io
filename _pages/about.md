@@ -8,27 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Shashank. I'm passionate about signal processing and
-machine learning. I am currently a Ph.D. student in Computer Science at
-Northeastern University, where I work on biological signal processing and
-machine learning research under the supervision of Dr. Aarti Sathyanarayana in
-the [SATH Lab](https://www.thesathlab.com/).
+I am currently a Ph.D. student in Computer Science at Northeastern University,
+where I work on biological signal processing and machine learning research under
+the supervision of Dr. Aarti Sathyanarayana in the [SATH
+Lab](https://www.thesathlab.com/).
 
 Prior to starting my Ph.D. at Northeastern, I spent time as a Senior Data
 Scientist at Linus Health, where I worked on Linus Health's platform, as well as
 at Charles River Analytics as a Scientist where I worked on a variety of signal
 processing, machine learning, and computer vision projects. I received a
 Bachelor's degree in Biomedical Engineering and Mathematics at Vanderbilt
-University, where I performed research into signal processing and computer
-vision techniques to improve magnetic resonance imaging. I additionally received
-a Master's degree in Electrical Engineering at Boston University in May 2022,
-where I completed a Master's thesis under the supervision of Prof. M. Selim
-Ünlü.
+University in May 2018, where I performed research into signal processing and
+computer vision techniques to improve magnetic resonance imaging. I additionally
+received a Master's degree in Electrical Engineering at Boston University in May
+2022, where I completed a Master's thesis under the supervision of Prof. M.
+Selim Ünlü focused on reconstructing undersampled signals from interferometric
+imaging techniques.
 
-I am broadly interested developing in novel signal processing techniques and
-applying them to biological problems. I enjoy working on problems that push the
-boundaries of what we can identify out of low-level signals, as well as projects
-that involve enhancing signals to greater clarity.
+I am broadly interested developing in novel signal processing and machine
+learning techniques and applying them to biological problems. I am interested in
+working on problems that push the boundaries of what we can identify out of
+low-level signals, as well as projects that involve enhancing signals to greater
+clarity.
 
 [More information is available on my CV](/files/shashankmanjunath_cv.pdf)
 
