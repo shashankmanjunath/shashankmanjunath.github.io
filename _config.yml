@@ -181,10 +181,16 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  preprints:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  abstracts:
     output: true
     permalink: /:collection/:path/
   abstracts:
@@ -225,6 +231,24 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _abstracts
+  - scope:
+      path: ""
+      type: abstracts
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _preprints
+  - scope:
+      path: ""
+      type: preprints
     values:
       layout: single
       author_profile: true

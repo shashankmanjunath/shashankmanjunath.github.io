@@ -1,8 +1,9 @@
 ---
 title: "Improving the Performance of Fine-Grain Image Classifiers via Generative Data Augmentation"
-collection: publications
-permalink: /publication/2020-10-12-fine-grain-image-classification
+collection: preprints
+permalink: /preprint/2020-10-12-fine-grain-image-classification
 date: 2020-08-12
+authors: Shashank Manjunath, Aitzaz Nathaniel, Jeff Druce, Stan German.
 venue: "arXiv Preprint"
 paperurl: "https://arxiv.org/abs/2008.05381"
 ---

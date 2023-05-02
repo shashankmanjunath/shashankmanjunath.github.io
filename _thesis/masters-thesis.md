@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Techniques for Reconstruction and Segmentation of Nanoparticle Interferometric Signatures"
-collection: publications
-parmalink: /publication/masters-thesis
+collection: preprints
+parmalink: /preprint/masters-thesis
 date: 2022-05-15
 venue: "Boston University"
 paperurl: "https://open.bu.edu/handle/2144/44776"

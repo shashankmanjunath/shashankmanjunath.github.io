@@ -10,4 +10,6 @@ are described below.
 
 ## Topological Data Analysis (TDA) for Electroencephalogram (EEG) Signals
 
-More information coming!
+Publications in this area:
+
+- [Topological Data Analysis of Electroencephalogram Signals for Pediatric Obstructive Sleep Apnea](http://localhost:4000/publication/2023-04-28-tda-eeg-signals-pediatric-osa)

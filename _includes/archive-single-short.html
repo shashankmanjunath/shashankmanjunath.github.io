@@ -1,0 +1,44 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+
+<li>
+  {% if post.authors %}
+    {{ post.authors }}.
+  {% endif %}
+
+  {% if post.link %}
+    <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+  {% elsif post.paperurl %}
+    <a href="{{ post.paperurl }}" rel="permalink">{{ post.title }},</a>
+  {% else %}
+    <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }},</a>
+  {% endif %}
+
+  {% if post.collection == 'publications' %}
+    Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.
+  {% elsif post.collection == 'abstracts' %}
+    Appeared in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.
+  {% elsif post.collection == 'preprints' %}
+    Preprint, arXiv:{{ post.paperurl | remove: "https://arxiv.org/abs/" }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}.
+  {% elsif post.date %}
+    Published: {{ post.date | default: "1900-01-01" | date: "%Y" }}.
+  {% endif %}
+
+  {% if post.citation and post.paperurl %}
+    Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}">{{ post.paperurl }}</a>
+  {% elsif post.citation %}
+    Recommended citation: {{ post.citation }}.
+  {% endif %}
+</li>

@@ -3,7 +3,8 @@ title: "User Activity Context Recognition from Smartphone Data Using Deep Neural
 collection: publications
 permalink: /publication/2019-10-01-user-activity-context
 date: 2019-10-16
-venue: "Biomedical Engineering Society Annual Conference"
+authors: Shashank Manjunath, Bethany Bracken, Stan German, Camille Monnier, and Mike Farry
+venue: "Biomedical Engineering Society Annual Meeting"
 paperurl: /files/smanjunath_bmes_2019.pdf
 ---
 
