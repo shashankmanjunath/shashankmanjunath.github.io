@@ -12,4 +12,4 @@ are described below.
 
 Publications in this area:
 
-- [Topological Data Analysis of Electroencephalogram Signals for Pediatric Obstructive Sleep Apnea](http://localhost:4000/publication/2023-04-28-tda-eeg-signals-pediatric-osa)
+- [Topological Data Analysis of Electroencephalogram Signals for Pediatric Obstructive Sleep Apnea](/publication/2023-04-28-tda-eeg-signals-pediatric-osa)
