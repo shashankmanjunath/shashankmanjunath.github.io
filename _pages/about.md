@@ -45,7 +45,7 @@ clarity.
         <td>
             <p align = "center">
                 <a href="https://www.northeastern.edu/" target="_blank">Northeastern University</a><br />
-                Doctor of Philosophy<br />
+                Ph.D., Computer Science<br />
                 Computer Science<br />
                 Boston, MA
             </p>
@@ -60,11 +60,7 @@ clarity.
         <td>
             <p align = "center">
                 <a href="https://www.bu.edu/" target="_blank">Boston University</a><br />
-                Master of Science, May 2022<br />
-                Electrical Engineering<br />
-                GPA: 3.93<br />
-                Thesis: Machine Learning Techniques for Reconstruction and Segmentation of Nanoparticle Interferometric
-                Signatures<br />
+                M.S., Electrical Engineering, May 2022<br />
                 Boston, MA
             </p>
         </td>
@@ -78,9 +74,7 @@ clarity.
         <td>
             <p align = "center">
                 <a href="https://www.vanderbilt.edu/" target="_blank">Vanderbilt University</a><br />
-                Bachelor of Engineering, May 2018<br />
-                Biomedical Engineering and Mathematics<br />
-                GPA: 3.425<br />
+                B.Eng., Biomedical Engineering and Mathematics, May 2018<br />
                 Nashville, TN
             </p>
         </td>
