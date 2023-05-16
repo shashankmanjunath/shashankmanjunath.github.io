@@ -46,7 +46,6 @@ clarity.
             <p align = "center">
                 <a href="https://www.northeastern.edu/" target="_blank">Northeastern University</a><br />
                 Ph.D., Computer Science, 2022 - Present<br />
-                Computer Science<br />
                 Boston, MA
             </p>
         </td>
