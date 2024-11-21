@@ -1,6 +1,7 @@
 ---
 title: "Topological Data Analysis of Electroencephalogram Signals for Pediatric Obstructive Sleep Apnea"
 collection: publications
+category: conferences
 permalink: /publication/2023-04-28-tda-eeg-signals-pediatric-osa
 date: 2023-04-28
 authors: Shashank Manjunath, Jose A. Perea, Aarti Sathyanarayana

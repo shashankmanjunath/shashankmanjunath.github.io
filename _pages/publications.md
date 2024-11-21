@@ -6,37 +6,48 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-A most updated list of publications can be found at <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
+  <div class="wordwrap">A most updated list of publications can be found at <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
 
-## Peer-Reviewed Publications
+## Journal Articles
 
 <ol>
   {% for post in site.publications reversed %}
-    {% include archive-single-short.html %}
+    {% if post.category == 'manuscripts' %}
+      {% include archive-single-short.html %}
+    {% endif %}
+  {% endfor %}
+</ol>
+
+## Conference Papers
+
+<ol>
+  {% for post in site.publications reversed %}
+
+    {% if post.category == 'conferences' %}
+      {% include archive-single-short.html %}
+    {% endif %}
+
   {% endfor %}
 </ol>
 
 ## Preprints
 
 <ol>
-  {% for post in site.preprints reversed %}
-    {% include archive-single-short.html %}
-  {% endfor %}
-</ol>
-
-## Abstracts/Conferences
-
-<ol>
-  {% for post in site.abstracts reversed %}
-    {% include archive-single-short.html %}
+  {% for post in site.publications reversed %}
+    {% if post.category == 'preprints' %}
+      {% include archive-single-short.html %}
+    {% endif %}
   {% endfor %}
 </ol>
 
 ## Master's Thesis
-
-Shashank Manjunath. <a href="https://open.bu.edu/handle/2144/44776">Machine
-Learning Techniques for Reconstruction and Segmentation of Nanoparticle
-Interferometric Signatures,</a> Master's Thesis, Boston University. May 2022.
+<ol>
+  {% for post in site.publications reversed %}
+    {% if post.category == 'masters-thesis' %}
+      {% include archive-single-short.html %}
+    {% endif %}
+  {% endfor %}
+</ol>

@@ -26,10 +26,8 @@ Selim Ünlü focused on reconstructing undersampled signals from interferometric
 imaging techniques.
 
 I am broadly interested developing in novel signal processing and machine
-learning techniques and applying them to biological problems. I am interested in
-working on problems that push the boundaries of what we can identify out of
-low-level signals, as well as projects that involve enhancing signals to greater
-clarity.
+learning techniques. I am interested in working on problems that push the
+boundaries of what we can identify out of low-level signals.
 
 [More information is available on my CV](/files/shashankmanjunath_cv.pdf)
 
@@ -39,7 +37,7 @@ clarity.
     <tr>
         <td>
             <p align = "center">
-                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Northeastern_University_seal.svg/1920px-Northeastern_University_seal.svg.png" alt="neu" width=100 />
+                <img src="https://brand.northeastern.edu/wp-content/uploads/2022/06/ac-grid-4-black.svg" alt="neu" width=100 />
             </p>
         </td>
         <td>
