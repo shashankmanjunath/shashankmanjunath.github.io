@@ -5,8 +5,6 @@ permalink: /posts/2024/11/intro-transformers/
 comments: true
 ---
 
-{% include base_path %}
-
 Although there are many attention and transformer tutorials and papers online, I
 found myself working through a number of them to pick up different bits of
 information to allow me to better understand transformers for my applications. I
