@@ -105,7 +105,7 @@ boundaries of what we can identify out of low-level signals.
         <td>
             <p align = "center">
                 <a href="https://cra.com/" target="_blank">Charles River Analytics</a><br />
-                Scientist<br />
+                Research Scientist<br />
                 May 2018-February 2022<br />
                 Cambridge, MA
             </p>
